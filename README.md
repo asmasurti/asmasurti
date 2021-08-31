@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm currently a third-year Computer Engineering student at the Univerity of Toronto with an interest in Software Development, Hardware, AI/ML and Project Management. Below are some projects that I've worked on over the years. 
 <!--
 **asmasurti/asmasurti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
